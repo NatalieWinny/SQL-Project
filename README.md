@@ -40,3 +40,5 @@ Run Data Cleaning Scripts:
 Execute the SQL scripts in the sql/ directory to clean and preprocess the data.
 
 Contributions are welcome! If you have suggestions or improvements, please submit a pull request or open an issue.
+
+For any questions or feedback, please reach out to nataliewinny@outlook.com
